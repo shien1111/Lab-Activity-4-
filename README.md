@@ -1,1 +1,5 @@
 # Lab-Activity-4-
+ASSIGNING RATINGS BASED ON STUDENTS SCORES 
+
+VIDEO OF THE GRADE SCORE
+https://youtu.be/MyqliIUDoTs?si=RaXuHNP9pUIpT4me
